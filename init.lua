@@ -64,8 +64,9 @@ return {
           },
         },
       },
-    }
-  },
+    },
+
+  
 
   -- Configure require("lazy").setup() options
   lazy = {
