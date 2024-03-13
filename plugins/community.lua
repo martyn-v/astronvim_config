@@ -29,4 +29,5 @@ return {
       },
     },
   },
+  { import = "astrocommunity.pack.terraform" },
 }
